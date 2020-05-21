@@ -13,9 +13,9 @@ cd stories
 npm i
 npm run build
 
-#!!impotant!! Change package name in package.json
+#!!important!! Change package name in package.json
 
-#Then
+# Next
 
 cd -Your Project dir-
 npm i 'Your libs dir'/stories
